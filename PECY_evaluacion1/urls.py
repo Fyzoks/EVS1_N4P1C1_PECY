@@ -21,6 +21,6 @@ from PECY_app1 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hola 1',views.display1),
-    path('hola 2',views.display2),
+    path('hola 1/',views.display1),
+    path('hola 2/',views.display2),
 ]
