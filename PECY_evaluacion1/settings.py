@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'PECY_app1',
 
+    'PECY_app2',
 ]
 
 MIDDLEWARE = [
